@@ -1,0 +1,1 @@
+In this assignment I initialized a git repository on the terminal. I created a branch called 'feature/student-details. Created files such as 'student-info.txt' and 'index.html'. I  made a couple of commits with meanigful messages. One of which was an html file which I deployed to GitHub pages
